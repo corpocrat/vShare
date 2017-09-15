@@ -10,7 +10,7 @@
       true,
       "check-space"
     ],
-    "curly": true,
+    "curly": false,
     "eofline": true,
     "forin": true,
     "import-blacklist": [
@@ -123,7 +123,7 @@
     "component-selector": [
       true,
       "element",
-      "app",
+      "vs",
       "kebab-case"
     ],
     "use-input-property-decorator": true,
